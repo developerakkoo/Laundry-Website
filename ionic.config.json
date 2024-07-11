@@ -1,0 +1,7 @@
+{
+  "name": "laundry-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
